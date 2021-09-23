@@ -124,4 +124,4 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-TEST_FIELD = "berry"
+TEST_FIELD = "cherry"
